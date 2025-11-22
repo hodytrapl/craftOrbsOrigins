@@ -7,9 +7,7 @@
 
 <div align="center">
 
-<img width="100%" max-width="80px" height="auto" src="logo.png" alt="logo" />
-
-![recipe](logo.png)
+<img width="80" src="logo.png" alt="logo" />
 
 <h1> Craft Orbs Origins </h1>
 <a style="text-decoration: none;" href="https://steamcommunity.com/id/H0dytrapl/" alt="link">Steam</a>

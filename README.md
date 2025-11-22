@@ -1,13 +1,14 @@
-<p style="text-align:center">
-  <a href="https://github.com/hodytrapl/craftOrbsOrigins/releases">
-    <img src="https://img.shields.io/github/downloads/hodytrapl/craftOrbsOrigins/total?color=blue" alt="GitHub Downloads">
-  </a>
-  <a href="https://github.com/hodytrapl/craftOrbsOrigins/releases">
-    <img src="https://img.shields.io/github/v/tag/hodytrapl/craftOrbsOrigins?label=latest%20version&color=green" alt="Latest Version">
-  </a>
-</p>
+<div style="text-align: center;">
 
+[![GitHub Downloads](https://img.shields.io/github/downloads/hodytrapl/craftOrbsOrigins/total?color=blue)](https://github.com/hodytrapl/craftOrbsOrigins/releases)
+[![Version](https://img.shields.io/github/v/tag/hodytrapl/craftOrbsOrigins?label=latest%20version&color=green)](https://github.com/hodytrapl/craftOrbsOrigins/releases)
 
-mod: Origins. support: 1.20.1+ . type: datapack
-датапак добавляет крафт орбе. Для серваков и прочее.
-![recipe](recipe.png)
+# Craft Orbs Origins
+
+**Мод: Origins** | **Поддержка: 1.20.1+** | **Тип: Датапак**
+
+Датапак добавляет крафт орбов. Для серверов и прочее.
+
+![Recipe](recipe.png)
+
+</div>

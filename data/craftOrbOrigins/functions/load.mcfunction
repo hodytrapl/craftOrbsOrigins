@@ -1,0 +1,2 @@
+tellraw @p [{"text":"Craft Orb Origins:","color":"white"},"",{"text":"[","color":"gray"},{"text":"Enabled","color":"green"},{"text":"]","color":"gray"}]
+tellraw @p [{"text":"[","color":"white"},{"text":"GitHub","color":"gray","clickEvent":{"action":"open_url","value":"https://github.com/hodytrapl"}},{"text":"]","color":"white"}]

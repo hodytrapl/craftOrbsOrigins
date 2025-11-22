@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img style="width:100%; max-width:80px; height:auto;"  src="logo.png" alt="logo" />
+<img width="100%" max-width="80px" height="auto" src="logo.png" alt="logo" />
 
 ![recipe](logo.png)
 

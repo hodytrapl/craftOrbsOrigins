@@ -1,7 +1,10 @@
-
-<p style="text-align: center;">
-  [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/hodytrapl/craftOrbsOrigins/total?color=blue)](https://github.com/hodytrapl/craftOrbsOrigins/releases)
-    [![version](https://img.shields.io/github/v/tag/hodytrapl/craftOrbsOrigins?label=latest%20version&color=green)](https://github.com/hodytrapl/craftOrbsOrigins/releases)
+<p style="text-align:center">
+  <a href="https://github.com/hodytrapl/craftOrbsOrigins/releases">
+    <img src="https://img.shields.io/github/downloads/hodytrapl/craftOrbsOrigins/total?color=blue" alt="GitHub Downloads">
+  </a>
+  <a href="https://github.com/hodytrapl/craftOrbsOrigins/releases">
+    <img src="https://img.shields.io/github/v/tag/hodytrapl/craftOrbsOrigins?label=latest%20version&color=green" alt="Latest Version">
+  </a>
 </p>
 
 
